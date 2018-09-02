@@ -4,4 +4,10 @@ Git is free software.
 1111
 dev branch create
 local dev update
+
 local update2
+
+remote update1
+
+resolve flict
+
